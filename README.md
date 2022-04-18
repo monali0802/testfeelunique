@@ -15,7 +15,7 @@ using cakephp
 
 for change database credential config/app_local.php
 check composer if not exist then install and php version
-
+open command prompt and run "composer install"
 
 
 Below are the api and parameter for api:
